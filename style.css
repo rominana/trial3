@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: blue;
+  }
+  
+  h1 {
+    left: 751px;
+    color: gray;
+  }
+  
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+  }
+  
+  h4 {
+    color: black;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  a {
+    color: black;
+  }
